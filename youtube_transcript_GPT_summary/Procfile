@@ -1,1 +1,1 @@
-web: gunicorn youtube_transcript_generator.wsgi
+web: gunicorn youtube_transcript_GPT_summary.wsgi
